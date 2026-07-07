@@ -22,4 +22,4 @@ Since Krypton Suite requires zero backend instances, running it locally is incre
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/yourusername/krypton-suite.git](https://github.com/yourusername/krypton-suite.git)
+   git clone [https://github.com/duckycash/krypton-suite.git](https://github.com/duckycash/krypton-password-tool.git)
